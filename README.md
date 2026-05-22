@@ -52,9 +52,8 @@
 - 📧 开发/工作：`kuinone@notanote.cn`
 
 ## 友情链接
-[Redstix](https://asxz.one)
+### [Redstix](https://asxz.one) *Redstix可能是迄今为止唯一一个开放了7789端口的红石中继器*
 
 ##
 ---
-
-> *Talk is cheap, give me code.*
+*Talk is cheap, give me code.*
