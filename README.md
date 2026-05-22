@@ -50,4 +50,4 @@
 ##
 ---
 
-*⚡ “从 A 到 B 靠逻辑，从 A 到宇宙靠想象。”*
+> *Talk is cheap, give me code.*
