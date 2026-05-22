@@ -45,7 +45,7 @@
 - 📧 开发/工作：`kuinone@notanote.cn`
 
 ## 友情链接
-[Redstix](asxz.one)
+[Redstix](https://asxz.one)
 
 ##
 ---
