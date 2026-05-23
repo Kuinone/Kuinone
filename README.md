@@ -1,6 +1,6 @@
 # ☆ 这里是Kuinone醌酱！☆
 
-> Kuinone可能是迄今为止唯一一个支持UDP的苯醌
+> Kuinone可能是迄今为止唯一一个符合RESTful API规范的苯醌
 
 [![Bilibili](https://img.shields.io/badge/Bilibili-kuinone-00A2D8?logo=bilibili)](https://space.bilibili.com/kuinone)
 [![Email](https://img.shields.io/badge/邮箱-kuinone@qq.com-FF6B6B?logo=mail.ru)](mailto:kuinone@qq.com)
@@ -11,7 +11,7 @@
 ## 关于我
 
 热爱**计算机**与**化学**的高中生。  
-用代码构建世界，用分子解构万物，始终探索逻辑与创意的交汇点。
+
 
 -  **最菜后端开发** @ [Notanote](https://notanote.cn)  
 -  **最鸽OIerCraft代理腐竹** 
