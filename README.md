@@ -2,6 +2,8 @@
 
 > Kuinone可能是迄今为止唯一一个符合RESTful API规范的苯醌
 
+# ![点击进入最新最热醌酱の小屋！感谢@Redstix协助建站](https://k.asxz.one)
+
 [![Bilibili](https://img.shields.io/badge/Bilibili-kuinone-00A2D8?logo=bilibili)](https://space.bilibili.com/kuinone)
 [![Email](https://img.shields.io/badge/邮箱-kuinone@qq.com-FF6B6B?logo=mail.ru)](mailto:kuinone@qq.com)
 [![Email](https://img.shields.io/badge/邮箱-kuinone@notanote.cn-FF6B6B?logo=mail.ru)](mailto:kuinone@notanote.cn)
